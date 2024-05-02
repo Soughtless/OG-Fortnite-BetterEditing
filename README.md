@@ -8,3 +8,6 @@ bassicaly just adds better editing options like:
 *This project was made by Soughtless!*
 
 Works on almost any fortnite version (works for chapter 2 & 3 too) 
+
+Make Sure you have .Net Framework installed!
+.Net Framework download link: https://dotnet.microsoft.com/en-us/download
