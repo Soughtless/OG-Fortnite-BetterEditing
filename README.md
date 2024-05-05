@@ -1,4 +1,6 @@
 # OG Fortnite BetterEditing
+**To the people saying its a virus, its genuinly not. like bro i made this in 2days. theres no way i made a entire trojan in 2 days** 
+*if people keep saying its a virus i'll release source soon!*
  
 bassicaly just adds better editing options like:
  - edit on release
