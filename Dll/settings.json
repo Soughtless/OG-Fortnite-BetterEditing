@@ -1,0 +1,29 @@
+{
+  "Keybinds": {
+    "Wall": "W",
+    "Floor": "X",
+    "Pyramid": "V",
+    "Ramp": "C",
+    "Pickaxe": "F",
+    "Slot1": "1",
+    "Slot2": "2",
+    "Slot3": "3",
+    "Slot4": "4",
+    "Slot5": "5",
+    "Edit": "G",
+    "FastReset": "T",
+    "SecondaryEditKeybind": "H",
+    "Build1By1": "0",
+    "placeBuildKeybind": "LeftMouseButton",
+    "resetBuildKeybind": "RightMouseButton"
+  },
+  "Settings": {
+    "Delay": 5, // delay before actually 'releasing'
+    "MainSeason": 5, //set this to the season you will be playing, this changes some settings based of the building mechanics
+    "FastEditReset": true, // When enabled, Whenever your FastReset bind is pressed it instantly resets the build.
+    "LogInput": false, // just logs input
+    "SecureMode": true, // Stops it from being VERRY chunky sometimes, this doesnt affect delay or anything just makes it more stable.
+    "ShowKeybindsInConsole": false, // logs every keybind to the console
+    "TurboBuildEnabled": true // currently doesnt do anything.
+  }
+}
